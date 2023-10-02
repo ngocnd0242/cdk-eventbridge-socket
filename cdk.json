@@ -1,4 +1,4 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/eventbridge-webhooks.ts",
+  "app": "npx ts-node --prefer-ts-exts bin/api-eventbridge.ts",
   "context": {}
 }
